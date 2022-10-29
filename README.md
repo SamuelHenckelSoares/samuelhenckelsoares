@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     [![GitHub Streak](https://streak-stats.demolab.com?user=SamuelHenckelSoares&theme=holi-theme&border_radius=20&fire=FF2D2D)](https://git.io/streak-stats)
     -->
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SamuelHenckelSoares&theme=holi-theme" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SamuelHenckelSoares&theme=dark" />
         <img src="https://streak-stats.demolab.com?user=SamuelHenckelSoares&theme=default" />
     </picture>
 </div>
