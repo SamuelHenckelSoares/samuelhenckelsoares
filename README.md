@@ -24,7 +24,9 @@ Here are some ideas to get you started:
     [![GitHub Streak](https://streak-stats.demolab.com?user=SamuelHenckelSoares&theme=holi-theme&border_radius=20&fire=FF2D2D)](https://git.io/streak-stats)
     -->
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SamuelHenckelSoares&theme=dark" />
+        <!--<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SamuelHenckelSoares&theme=dark" /> -->
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SamuelHenckelSoares&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=2D333B"/>
+        
         <img src="https://streak-stats.demolab.com?user=SamuelHenckelSoares&theme=default" />
     </picture>
 </div>
