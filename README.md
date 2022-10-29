@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <div>
     <a href="https://github.com/samuelhenckelsoares">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=samuelhenckelsoares&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=2D333B"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhenckelsoares&layout=compact&langs_count=7&theme=react&border_radius=8&hide_border=true&bg_color=2D333B"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=samuelhenckelsoares&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=2D333B"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhenckelsoares&layout=compact&langs_count=7&theme=react&border_radius=8&hide_border=true&bg_color=2D333B"/>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SamuelHenckelSoares&show_icons=true&theme=react&include_all_commits=true&count_private=true&theme=react&border_radius=15&hide_border=true&fire=FF2D2D&background=2D333B" />         
-        <img height="130em" src="https://streak-stats.demolab.com?user=SamuelHenckelSoares&theme=default" />
+        <img height="120em" src="https://streak-stats.demolab.com?user=SamuelHenckelSoares&theme=default" />
     </picture>
 </div>
 
