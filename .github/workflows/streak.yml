@@ -1,0 +1,12 @@
+[
+  "background" => "#030314FF",
+  "border" => "#85A4C0FF",
+  "stroke" => "#2A4555FF",
+  "ring" => "#D6E7FFFF",
+  "currStreakNum" => "#5FABEEFF",
+  "fire" => "#FF2D2D",
+  "sideNums" => "#5FABEEFF",
+  "currStreakLabel" => "#D6E7FFFF",
+  "sideLabels" => "#D6E7FFFF",
+  "dates" => "#85A4C0FF",
+]
