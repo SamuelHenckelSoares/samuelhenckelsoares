@@ -3,9 +3,10 @@
 
 Here are some ideas to get you started:
 -->
-<h1 align="center">Hi 👋, I'm Samuel Henckel Soares</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelhenckelsoares&label=Profile%20views&color=0e75b6&style=flat" alt="samuelhenckelsoares" /> </p>
+<h1 align="left">Hi 👋, I'm Samuel Henckel Soares</h1>
+
+ <img align="right" height="30em"  src="https://komarev.com/ghpvc/?username=samuelhenckelsoares&label=Profile%20views&color=0e75b6&style=flat" alt="samuelhenckelsoares" /> 
 
 - 🔭 I’m currently working on my Wedding..
 - 🌱 I’m currently learning SAP ABAP development, Html 5, CSS 3, Java Script and Python...
