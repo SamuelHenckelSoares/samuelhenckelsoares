@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
  <img align="right" height="30em"  src="https://komarev.com/ghpvc/?username=samuelhenckelsoares&label=Profile%20views&color=0e75b6&style=flat" alt="samuelhenckelsoares" /> 
 
-- 🔭 I’m currently working on my Wedding..
+- 🔭 I’m currently working on my Programing Skills, ABAP Developing knowledge and on my Wedding..
 - 🌱 I’m currently learning SAP ABAP development, Html 5, CSS 3, Java Script and Python...
 - 👯 I’m looking to collaborate on ...
 <!-- - 🤔 I’m looking for help with ... -->
