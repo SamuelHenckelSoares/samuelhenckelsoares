@@ -19,9 +19,13 @@ Here are some ideas to get you started:
 
 ##
  <h3 align="left"> About my curent Work:</h3>
+ <div align="center" style="display: inline_block">
  
-- I'm a ABAP - SAP Developer in NTT DATA Business Solutions Brazil, since September 2021.
-- 
+  <img height="40em" src="https://user-images.githubusercontent.com/89929235/199982117-7a7a5f9f-e8f1-466d-9887-126ce4cf13ae.jpg"/>
+  <img height="40em" border="" src="https://user-images.githubusercontent.com/89929235/199982117-7a7a5f9f-e8f1-466d-9887-126ce4cf13ae.jpg"/>
+  <text> - I'm a ( ABAP - SAP Developer ) in NTT DATA Business Solutions Brazil, since September 2021.</text>
+ </div>
+
 
 
 <div align="center">
